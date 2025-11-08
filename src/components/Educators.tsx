@@ -4,21 +4,21 @@ import educator2 from "@/assets/educator-2.jpg";
 
 const educators = [
   {
-    name: "Rajarajeshwari. R",
-    title: "Vocal Guru",
-    credentials: "Isaikalai chemmal, kalai chakkara mamani",
-    education: "B.A., M.A, Carnatic Music",
-    role: "Founder - Rajarajeshwari School of Music & Dance, Thanjavur",
-    image: educator1,
-    instagram: "#"
-  },
-  {
     name: "S. Thenmozhi Arunkumar",
     title: "Dance Guru",
     credentials: "Naatiya Thendral, Kalaivalar selvi, Nattuvaanga Kalaimani",
     education: "B.A., HDCT., Dip(Dance)., Dip(Nattuvangam)",
     role: "Bharatanatyam Instructor",
     image: educator2,
+    instagram: "#"
+  },
+  {
+    name: "Priya Sharma",
+    title: "Instrumental Guru",
+    credentials: "Veena Vidwan, Sangeetha Kala Rathna",
+    education: "B.A., M.A, Veena Performance",
+    role: "Veena & Instrumental Music Instructor",
+    image: educator1,
     instagram: "#"
   }
 ];
