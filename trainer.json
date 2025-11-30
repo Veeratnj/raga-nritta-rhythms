@@ -1,0 +1,42 @@
+{
+    "founder":{
+        "name":"Rajeshwari",
+        "nickname":"Vocal guru .isaikalai chemmal, kalai chakkara mamani Ms.R.Rajarajeshwari",
+        "Qualification":"B.A.,M.A, carnatic music",
+        "Specialization":"",
+        "img_path":"images/trainers/FOUNDER.jpeg"
+
+    },
+    
+    "trainers":[
+            {
+                "trainer_name":"R.Srinivasan",
+                "nickname":"",
+                "Qualification":"MA music., DMT",
+                "Specialization":"Bharathanatyam",
+                "img_path":"images/trainers/t1.jpeg"
+            },
+            {
+                "trainer_name":"R.Srinivasan",
+                "nickname":"",
+                "Qualification":"MA music., DMT",
+                "Specialization":"Violin",
+                "img_path":"images/trainers/t2.jpeg"
+            },
+            {
+                "trainer_name":"S. Kamalakkannan",
+                "nickname":"",
+                "Qualification":"JMA (English), MA (Music), DMT",
+                "Specialization":"Violin",
+                "img_path":"images/trainers/t3.jpeg"
+            },
+            {
+                "trainer_name":"J Simon sweetraj",
+                "nickname":"",
+                "Qualification":"MA music and DMT",
+                "Specialization":"Veenai",
+                "img_path":"images/trainers/t4.jpeg"
+            }
+    ]
+
+}
